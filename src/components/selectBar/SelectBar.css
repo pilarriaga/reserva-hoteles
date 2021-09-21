@@ -1,0 +1,38 @@
+.select-bar {
+    display: flex;
+    justify-content: space-around;
+    
+    background-image:url(../../db/images/6.jpg);
+    background-size: cover;
+    background-position:bottom;
+    object-fit:contain;
+    padding: 1% 2%;
+    border-radius: 10px;
+    margin: 3px 0px;
+}
+
+.date-select {
+    display: flex;
+    text-align: center;
+    align-self: center;
+}
+.date-select span{
+    font-size: 15px;
+    font-weight: 600;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+@media screen and (max-width: 768px){
+    .select-bar {
+        display: flex;
+        flex-direction: column;
+        border-radius: 10px;
+    }
+
+    .date-select span{
+        font-size: 11px;
+    }
+    
+}

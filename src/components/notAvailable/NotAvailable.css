@@ -1,0 +1,13 @@
+.not-found {
+    background-color: rgba(224, 68, 68, 0.644);
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+@media screen and (max-width: 768px){
+    .not-found{
+        font-size: 15px;
+    }
+}

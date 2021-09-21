@@ -1,0 +1,21 @@
+button {
+    font-size: 13px;
+    border-radius: 5px;
+    align-self: center;
+    border: none;
+    cursor: pointer;
+    width: 200px;
+    height: 35px;
+    margin: 5px;
+    background-color: rgba(235, 31, 31, 0.726);
+}
+@media screen and (max-width: 768px){
+    button {
+        font-size: 11px;
+        padding: 5px;
+    }
+}
+
+
+
+

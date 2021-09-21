@@ -1,0 +1,49 @@
+.header {
+    padding: 50px;
+    font-size: 15px;
+    color:rgb(255, 255, 255);
+    font-weight: 700;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-bottom: 1px;
+    background-image:url(../../db/images/6.jpg);
+    background-size: cover;
+    background-position:top;
+    object-fit:contain;
+}
+
+h1 {
+    font-size: 35px;
+    margin-bottom: 7px;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 3px;
+    padding: 3px;
+    width: fit-content;
+    
+}
+
+.header div {
+    width: fit-content;
+    margin-bottom: 3px;
+    background-color: rgba(0,0,0,0.4);
+    border-radius: 3px;
+    padding: 3px;
+}
+
+@media screen and (max-width: 768px) {
+    .header {
+        padding: 10px;
+        font-size: 11px;
+        color: white;
+        border-radius: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    h1 {
+        font-size: 20px;
+        margin-bottom: 7px;
+    }
+    
+}

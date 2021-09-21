@@ -1,0 +1,118 @@
+.card {
+    width: 360px;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 7px 0px rgba(197, 197, 197, 0.73);
+}
+
+.card img {
+    width: 100%;
+    object-fit: contain;
+}
+
+.information {
+    margin-top: 7px;
+    font-size: 12px;
+}
+
+.information h2 {
+    font-size: 16px;
+    height: 35px;
+}
+
+.green-button {
+    border-radius: 3px;
+    background-color: rgb(195, 193, 40);
+    color: white;
+    font-weight: 700;
+    padding: 0px 3px;
+    margin: 3px 0px;
+    display: flex;
+    align-items: center;
+    height: 35px;
+}
+
+.information p {
+    padding: 1px 3px;
+    height: 70px;
+    overflow: auto;
+    color: rgba(50, 50, 50, 0.788)
+}
+
+.scroll-bar::-webkit-scrollbar {
+    width: 4px;
+}
+
+.scroll-bar::-webkit-scrollbar-thumb {
+    background-color: rgb(207, 205, 39);
+    border-radius: 2px;
+}
+
+.shadow {
+    border-radius: 3px;
+    box-shadow: 2px 2px 3px 0px rgba(50, 50, 50, 0.75);
+    padding: 2px;
+    margin: 2px;
+    display: flex;
+    align-items: center;
+    height: 35px;
+}
+
+.price-flex {
+    display: flex;
+}
+
+.icon {
+    margin: 6px;
+    color: rgb(207, 205, 39);
+    font-size: 15px;
+}
+
+.primary {
+    color: rgb(207, 205, 39);
+}
+
+.secondary {
+    color: rgba(207, 204, 39, 0.383)
+}
+
+.container {
+    display: flex;
+}
+
+.rooms {
+    width: 60%;
+}
+
+.price {
+    width: 40%;
+    justify-content: center;
+}
+
+.reserve {
+    width: 99%;
+    justify-content: center;
+    margin: 3px 2px;
+}
+
+@media screen and (max-width: 768px){
+    .information {
+        font-size: 11px;
+    }
+    .information h2 {
+        font-size: 12px;
+        height: 25px;
+    }
+    .green-button {
+        border-radius: 2px;
+        height: 30px;
+    }
+
+    .shadow {
+        height: 20px;
+    }
+    .icon {
+        font-size: 13px;
+    }
+}
