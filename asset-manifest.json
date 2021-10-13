@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/reserva-hoteles/static/css/main.e98ce7a9.chunk.css",
+    "main.js": "/reserva-hoteles/static/js/main.ec370677.chunk.js",
+    "main.js.map": "/reserva-hoteles/static/js/main.ec370677.chunk.js.map",
+    "runtime-main.js": "/reserva-hoteles/static/js/runtime-main.f15ffb2d.js",
+    "runtime-main.js.map": "/reserva-hoteles/static/js/runtime-main.f15ffb2d.js.map",
+    "static/js/2.5fa8e535.chunk.js": "/reserva-hoteles/static/js/2.5fa8e535.chunk.js",
+    "static/js/2.5fa8e535.chunk.js.map": "/reserva-hoteles/static/js/2.5fa8e535.chunk.js.map",
+    "index.html": "/reserva-hoteles/index.html",
+    "static/css/main.e98ce7a9.chunk.css.map": "/reserva-hoteles/static/css/main.e98ce7a9.chunk.css.map",
+    "static/js/2.5fa8e535.chunk.js.LICENSE.txt": "/reserva-hoteles/static/js/2.5fa8e535.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/reserva-hoteles/static/media/6.93713292.jpg",
+    "static/media/alto-atacama.jpg": "/reserva-hoteles/static/media/alto-atacama.a6846d24.jpg",
+    "static/media/azur-real.jpg": "/reserva-hoteles/static/media/azur-real.9a591fc1.jpg",
+    "static/media/campo-tinto.jpg": "/reserva-hoteles/static/media/campo-tinto.f27bca75.jpg",
+    "static/media/casa-higueras.jpg": "/reserva-hoteles/static/media/casa-higueras.0c6c7433.jpg",
+    "static/media/casa-turquesa.jpg": "/reserva-hoteles/static/media/casa-turquesa.8e9179ce.jpg",
+    "static/media/entre-cielos.jpg": "/reserva-hoteles/static/media/entre-cielos.671c5a26.jpg",
+    "static/media/huacalera.jpg": "/reserva-hoteles/static/media/huacalera.7542bc14.jpg",
+    "static/media/la-bamba-de-areco.jpg": "/reserva-hoteles/static/media/la-bamba-de-areco.0ccacda0.jpg",
+    "static/media/luma-casa-de-montana.jpg": "/reserva-hoteles/static/media/luma-casa-de-montana.0501710d.jpg",
+    "static/media/merced-del-alto.jpg": "/reserva-hoteles/static/media/merced-del-alto.3daaee16.jpg",
+    "static/media/rincon-del-socorro.jpg": "/reserva-hoteles/static/media/rincon-del-socorro.98161c62.jpg",
+    "static/media/sainte-jeanne.jpg": "/reserva-hoteles/static/media/sainte-jeanne.4ff84aba.jpg",
+    "static/media/tierra-patagonia.jpg": "/reserva-hoteles/static/media/tierra-patagonia.aad2b011.jpg",
+    "static/media/uxua-casa.jpg": "/reserva-hoteles/static/media/uxua-casa.ebf46cc5.jpg",
+    "static/media/vik-chile.jpg": "/reserva-hoteles/static/media/vik-chile.341113d7.jpg",
+    "static/media/vila-da-santa.jpg": "/reserva-hoteles/static/media/vila-da-santa.a64e91d2.jpg",
+    "static/media/vira-vira.jpg": "/reserva-hoteles/static/media/vira-vira.17468e7f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f15ffb2d.js",
+    "static/js/2.5fa8e535.chunk.js",
+    "static/css/main.e98ce7a9.chunk.css",
+    "static/js/main.ec370677.chunk.js"
+  ]
+}
